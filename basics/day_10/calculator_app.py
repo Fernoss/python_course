@@ -25,7 +25,7 @@ operations = {
 }
 
 
-# recursion
+# function for the whole calculation
 def calculation():
     print(logo)
     num1 = float(input("What's the first number? "))
